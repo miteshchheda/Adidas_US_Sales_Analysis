@@ -1,7 +1,7 @@
 # Adidas US Sales Analysis 📊
 
 ## 📌 Project Overview  
-This project analyzes **Adidas US Sales data (2020–2021)** sourced from [Kaggle] using **Excel**, **SQL** and **Power BI**.  
+This project analyzes **Adidas US Sales data (2020–2021)** sourced from Kaggle using **Excel**, **SQL** and **Power BI**.  
 The objective was to uncover insights into **sales performance, profitability, and market trends** across retailers, regions, and products, and to visualize them in an interactive dashboard.  
 
 ---
